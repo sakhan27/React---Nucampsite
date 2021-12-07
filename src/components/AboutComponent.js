@@ -16,7 +16,7 @@ function RenderPartner({partner}) {
         );
     }
     else
-        return <div/>
+        return <div/>;
 }
 
 
